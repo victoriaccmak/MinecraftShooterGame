@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS4/Assignments/PASS2/OOP_PASS/OOP_PASS/Content/Audio/Music/Gameplay.mp3</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS4/Assignments/PASS2/OOP_PASS/OOP_PASS/Content/Audio/Music/Menu.mp3</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS4/Assignments/PASS2/OOP_PASS/OOP_PASS/Content/Audio/Music/Results.mp3</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS4/Assignments/PASS2/OOP_PASS/OOP_PASS/Content/Audio/Music/Shop.mp3</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS4/Assignments/PASS2/OOP_PASS/OOP_PASS/Content/Audio/Sounds/ArrowImpact.wav</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS4/Assignments/PASS2/OOP_PASS/OOP_PASS/Content/Audio/Sounds/BowShoot.wav</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS4/Assignments/PASS2/OOP_PASS/OOP_PASS/Content/Audio/Sounds/ButtonClick.wav</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS4/Assignments/PASS2/OOP_PASS/OOP_PASS/Content/Audio/Sounds/EndermanScream.wav</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS4/Assignments/PASS2/OOP_PASS/OOP_PASS/Content/Audio/Sounds/EndermanTeleport.wav</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS4/Assignments/PASS2/OOP_PASS/OOP_PASS/Content/Audio/Sounds/Explode.wav</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS4/Assignments/PASS2/OOP_PASS/OOP_PASS/Content/Audio/Sounds/Purchase.wav</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS4/Assignments/PASS2/OOP_PASS/OOP_PASS/Content/Audio/Sounds/ShieldHit.wav</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS4/Assignments/PASS2/OOP_PASS/OOP_PASS/Content/Fonts/BoldFont.spritefont</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS4/Assignments/PASS2/OOP_PASS/OOP_PASS/Content/Fonts/instrFont.spritefont</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS4/Assignments/PASS2/OOP_PASS/OOP_PASS/Content/Fonts/TitleFont.spritefont</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS4/Assignments/PASS2/OOP_PASS/OOP_PASS/Content/Images/Sized/Alex_64.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS4/Assignments/PASS2/OOP_PASS/OOP_PASS/Content/Images/Sized/ArrowDown.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS4/Assignments/PASS2/OOP_PASS/OOP_PASS/Content/Images/Sized/ArrowUp.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS4/Assignments/PASS2/OOP_PASS/OOP_PASS/Content/Images/Sized/BlankPixel.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS4/Assignments/PASS2/OOP_PASS/OOP_PASS/Content/Images/Sized/Button.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS4/Assignments/PASS2/OOP_PASS/OOP_PASS/Content/Images/Sized/Cobblestone_64.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS4/Assignments/PASS2/OOP_PASS/OOP_PASS/Content/Images/Sized/Creeper_64.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS4/Assignments/PASS2/OOP_PASS/OOP_PASS/Content/Images/Sized/Dirt_64.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS4/Assignments/PASS2/OOP_PASS/OOP_PASS/Content/Images/Sized/Enderman_64.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS4/Assignments/PASS2/OOP_PASS/OOP_PASS/Content/Images/Sized/Explode_200.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS4/Assignments/PASS2/OOP_PASS/OOP_PASS/Content/Images/Sized/Grass1_64.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS4/Assignments/PASS2/OOP_PASS/OOP_PASS/Content/Images/Sized/Grass2_64.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS4/Assignments/PASS2/OOP_PASS/OOP_PASS/Content/Images/Sized/IconDamage_32.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS4/Assignments/PASS2/OOP_PASS/OOP_PASS/Content/Images/Sized/IconFireRate_32.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS4/Assignments/PASS2/OOP_PASS/OOP_PASS/Content/Images/Sized/IconPoints_32.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS4/Assignments/PASS2/OOP_PASS/OOP_PASS/Content/Images/Sized/IconSpeed_32.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS4/Assignments/PASS2/OOP_PASS/OOP_PASS/Content/Images/Sized/MenuBG1.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS4/Assignments/PASS2/OOP_PASS/OOP_PASS/Content/Images/Sized/MenuBG2.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS4/Assignments/PASS2/OOP_PASS/OOP_PASS/Content/Images/Sized/MenuBG3.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS4/Assignments/PASS2/OOP_PASS/OOP_PASS/Content/Images/Sized/Pillager_64.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS4/Assignments/PASS2/OOP_PASS/OOP_PASS/Content/Images/Sized/Shield_48.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS4/Assignments/PASS2/OOP_PASS/OOP_PASS/Content/Images/Sized/ShopDamageBoost_150.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS4/Assignments/PASS2/OOP_PASS/OOP_PASS/Content/Images/Sized/ShopDamageBoost_300.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS4/Assignments/PASS2/OOP_PASS/OOP_PASS/Content/Images/Sized/ShopFireRateBoost_150.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS4/Assignments/PASS2/OOP_PASS/OOP_PASS/Content/Images/Sized/ShopFireRateBoost_300.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS4/Assignments/PASS2/OOP_PASS/OOP_PASS/Content/Images/Sized/ShopPointsBoost_150.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS4/Assignments/PASS2/OOP_PASS/OOP_PASS/Content/Images/Sized/ShopPointsBoost_300.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS4/Assignments/PASS2/OOP_PASS/OOP_PASS/Content/Images/Sized/ShopSpeedBoost_150.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS4/Assignments/PASS2/OOP_PASS/OOP_PASS/Content/Images/Sized/ShopSpeedBoost_300.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS4/Assignments/PASS2/OOP_PASS/OOP_PASS/Content/Images/Sized/ShopTitle.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS4/Assignments/PASS2/OOP_PASS/OOP_PASS/Content/Images/Sized/Skeleton_64.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS4/Assignments/PASS2/OOP_PASS/OOP_PASS/Content/Images/Sized/Splat_64.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS4/Assignments/PASS2/OOP_PASS/OOP_PASS/Content/Images/Sized/StatsTitle.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS4/Assignments/PASS2/OOP_PASS/OOP_PASS/Content/Images/Sized/Steve_64.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS4/Assignments/PASS2/OOP_PASS/OOP_PASS/Content/Images/Sized/Title.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS4/Assignments/PASS2/OOP_PASS/OOP_PASS/Content/Images/Sized/Trader_64.png</File>
+    <File>C:/Users/AM_admin/OneDrive/Desktop/ICS4/Assignments/PASS2/OOP_PASS/OOP_PASS/Content/Images/Sized/Villager_64.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File>Fonts/InstrFont.spritefont</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
